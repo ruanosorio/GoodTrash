@@ -1,0 +1,146 @@
+[
+	{
+		"lat": -30.0279650,
+		"lng": -51.2193650,
+		"nome": "DMLU - Capatazia Concei��o",
+		"endereco": "Rua Alberto Bins, próximo ao nº 650 (embaixo do Viaduto da Conceição) - Bairro Centro",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3226-1950",
+		"codPostal": "Porto Alegre - RS - 90030-141 - Brasil"
+	},
+	{
+		"lat": -30.0191540,
+		"lng": -51.2046200,
+		"nome": "Unidade de Destino Certo Câncio Gomes",
+		"endereco": "Travessa Carmem, 111 - Bairro Floresta",
+		"horario": "2ª à 6ª: 8:00h às 18:00h; sab: 8:00h às 12:00h",
+		"telefone": "3386-2155",
+		"codPostal": "Porto Alegre - RS - Brasil"
+	},
+	{
+		"lat": -30.0469240,
+		"lng": -51.2154130,
+		"nome": "Procempa",
+		"endereco": "Rua João Neves da Fontoura, 91 - Bairro Azenha",
+		"horario": "2ª à 6ª: 8:30h às 12:00h / 13:00h às 18:00h",
+		"telefone": "3189-6336",
+		"codPostal": "Porto Alegre - RS - 90050-030 - Brasil"
+	},
+	{
+		"lat": -30.079864,
+		"lng": -51.20187,
+		"nome": "Unidade de Destino Certo Carvalho de Freitas",
+		"endereco": "Rua Professor Carvalho de Freitas, 1012, Glória",
+		"horario": "2ª à 6ª: 8:00h às 19:00h; sab: 8:00h às 12:00h",
+		"telefone": "3322-0340",
+		"codPostal": "Porto Alegre - RS - 91720-090 - Brasil"
+	},
+	{
+		"lat": -29.9987430,
+		"lng": -51.1410760,
+		"nome": "Loja Leroy Merlin",
+		"endereco": "Av. Sertório, 6767 - Bairro Sarandi",
+		"horario": "2ª à sab: 8:00h às 22:00h; dom: 10:00h às 20:00h",
+		"telefone": "4020-5376",
+		"codPostal": "Porto Alegre - RS - Brasil"
+	},
+	{
+		"lat": -30.0112830,
+		"lng": -51.2108480,
+		"nome": "Cooperativa Paulo Freire",
+		"endereco": "Rua Voluntários da Pátria, 2552 - Centro Histórico",
+		"horario": "2ª à 6ª: 9:00h às 16:00h",
+		"telefone": "98485-6773",
+		"codPostal": "Porto Alegre - RS - 91030-540 - Brasil"
+	},
+	{
+		"lat": -30.0493050,
+		"lng": -51.2147450,
+		"nome": "DMLU - Sede",
+		"endereco": "Rua Prof. Freitas e Castro, 253 - Bairro Azenha",
+		"horario": "2ª à 6ª: 8:00h às 18:00h",
+		"telefone": "3289-6999",
+		"codPostal": "Porto Alegre - RS - Brasil"
+	},
+	{
+		"lat": -30.089092,
+		"lng": -51.248564,
+		"nome": "Unidade de Destino Certo Cristal",
+		"endereco": "Av. Diário de Notícias, 1111, Cristal",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3311-4730",
+		"codPostal": "Porto Alegre - RS - 90840-000 - Brasil"
+	},
+	{
+		"lat": -29.9815890,
+		"lng": -51.1853940,
+		"nome": "Unidade de Destino Certo Humaitá",
+		"endereco": "Av. José Aloísio Filho, 780 - Humaitá",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3289-6999 | 3325-3160",
+		"codPostal": "Porto Alegre - RS - 90250-180 - Brasil"
+	},
+	{
+		"lat": -30.081981,
+		"lng": -51.229228,
+		"nome": "Unidade de Destino Certo Vila Cruzeiro",
+		"endereco": "Rua Cruzeiro do Sul, 1445, Santa Tereza",
+		"horario": "2ª à 6ª: 8:00h às 18:00h; sab: 8:00h às 12:00h",
+		"telefone": "3231-6064",
+		"codPostal": "Porto Alegre - RS - 90840-000 - Brasil"
+	},
+	{
+		"lat": -30.0439410,
+		"lng": -51.2002640,
+		"nome": "Unidade de Destino Certo Princesa Isabel",
+		"endereco": "Av. Ipiranga, 2765 – Bairro Santana",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3354-1590",
+		"codPostal": "Porto Alegre - RS - 90160-091 - Brasil"
+	},
+	{
+		"lat": -29.9782410,
+		"lng": -51.1144350,
+		"nome": "Banco de Residuis da FIERGS",
+		"endereco": "Av. Assis Brasil, 8787 - Sarandi",
+		"horario": "2ª à 6ª: 8:00h às 17:00h",
+		"telefone": "3347-8787",
+		"codPostal": "Porto Alegre - RS - 91140-001 - Brasil"
+	},
+	{
+		"lat": -29.9782410,
+		"lng": -51.1144350,
+		"nome": "Banco de Residuis da FIERGS",
+		"endereco": "Av. Assis Brasil, 8787 - Sarandi",
+		"horario": "2ª à 6ª: 8:00h às 17:00h",
+		"telefone": "3347-8787",
+		"codPostal": "Porto Alegre - RS - 91140-001 - Brasil"
+	},
+	{
+		"lat": -30.0083810,
+		"lng": -51.2092900,
+		"nome": "IZN - Recicle Brasil - Voluntarios",
+		"endereco": "Rua Voluntários da Patria, 2987 - Centro Histórico",
+		"horario": "2ª à 6ª: 8:00h às 17:00h",
+		"telefone": "3016-2824 | 3061-9101",
+		"codPostal": "Porto Alegre - RS - 90030-002 - Brasil"
+	},
+	{
+		"lat": -30.0280940,
+		"lng": -51.2202720,
+		"nome": "IZN - Recicle Brasil - Albero Bins",
+		"endereco": "Rua Alberto Bins, 629 - Centro",
+		"horario": "2ª à 6ª: 8:30h às 17:00h",
+		"telefone": "3013-8332| 3061-9101",
+		"codPostal": "Porto Alegre - RS - 90030-041 - Brasil"
+	},
+	{
+		"lat": -29.9782410,
+		"lng": -51.1144350,
+		"nome": "Capatazia do Gasômetro - Trade Recycle",
+		"endereco": "Av. Presidente João Goulart, 158 - Praia de Belas",
+		"horario": "2ª à 6ª: 8:00h às 18:00h",
+		"telefone": "3224-9724",
+		"codPostal": "Porto Alegre - RS - 90110-060 - Brasil"
+	}
+]

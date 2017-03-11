@@ -1,0 +1,83 @@
+[
+	{
+		"lat": -30.081981,
+		"lng": -51.229228,
+		"nome": "Unidade de Destino Certo Vila Cruzeiro",
+		"endereco": "R. Cruzeiro do Sul, 1445, Santa Tereza",
+		"horario": "2ª à 6ª: 8:00h às 18:00h; sab: 8:00h às 12:00h",
+		"telefone": "3231-6064",
+		"codPostal": "Porto Alegre - RS - 90840-000 - Brasil"
+	},
+	{
+		"lat": -30.079864,
+		"lng": -51.20187,
+		"nome": "Unidade de Destino Certo Teresópolis e Glória",
+		"endereco": "R. Professor Carvalho de Freitas, 1012, Glória",
+		"horario": "2ª à 6ª: 8:00h às 19:00h; sab: 8:00h às 12:00h",
+		"telefone": "3322-0340",
+		"codPostal": "Porto Alegre - RS - 91720-090 - Brasil"
+	},
+	{
+		"lat": -30.089092,
+		"lng": -51.248564,
+		"nome": "Unidade de Destino Certo Cristal",
+		"endereco": "Av. Diário de Notícias, 1111, Cristal",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3311-4730",
+		"codPostal": "Porto Alegre - RS - 90840-000 - Brasil"
+	},
+	{
+		"lat": -30.0022254,
+		"lng": -51.1040096,
+		"nome": "Unidade de Destino Certo Zona Norte",
+		"endereco": "Av. Bernardino Silveira Amorim, 2261, Rubem Berta",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3386-2155",
+		"codPostal": "Porto Alegre - RS - 91160-000 - Brasil"
+	},
+	{
+		"lat": -30.0191540,
+		"lng": -51.2046200,
+		"nome": "Unidade de Destino Certo Câncio Gomes",
+		"endereco": "Travessa Carmem, 111 - Bairro Floresta",
+		"horario": "2ª à 6ª: 8:00h às 18:00h; sab: 8:00h às 12:00h",
+		"telefone": "3386-2155",
+		"codPostal": "Porto Alegre - RS - Brasil"
+	},
+	{
+		"lat": -30.0476850,
+		"lng": -51.1552040,
+		"nome": "Unidade de Destino Certo Fátima Pinto",
+		"endereco": "Rua Alfredo Ferreira Rodrigues, 975 – Bairro Bom Jesus",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3367-3777",
+		"codPostal": "Porto Alegre - RS - Brasil"
+	},
+	{
+		"lat": -30.0682288,
+		"lng": -51.1772029,
+		"nome": "Unidade de Destino Certo Tenente Alpoin",
+		"endereco": "Rua Coronel José Luiz Rodrigues Sobral, 958 – Bairro Partenon",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3354-6248",
+		"codPostal": "Porto Alegre - RS - Brasil"
+	},
+	{
+		"lat": -29.9815890,
+		"lng": -51.1853940,
+		"nome": "Unidade de Destino Certo Humaitá",
+		"endereco": "Av. José Aloísio Filho, 780 - Humaitá",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3289-6999 | 3325-3160",
+		"codPostal": "Porto Alegre - RS - 90250-180 - Brasil"
+	},
+	{
+		"lat": -30.0439410,
+		"lng": -51.2002640,
+		"nome": "Unidade de Destino Certo Princesa Isabel",
+		"endereco": "Avenida Ipiranga, 2765 – Bairro Santana",
+		"horario": "2ª à 6ª: 8:00h às 17:00h; sab: 8:00h às 12:00h",
+		"telefone": "3354-1590",
+		"codPostal": "Porto Alegre - RS - 90160-091 - Brasil"
+	}
+]

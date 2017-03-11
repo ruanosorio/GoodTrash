@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+ 	  xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets">
+
+    <ui:composition template="template_inicial.xhtml">
+
+        <ui:define name="title">        
+            Bem-vindo ao GoodTrash - RecicleSeuLixo.com.br        
+        </ui:define>
+        
+        <ui:define name="nav_bar">
+            <ui:include src="top_bar.xhtml"/>
+            <ui:include src="search_bar.xhtml"/>
+        </ui:define>
+            
+        <ui:define name="container">
+        <!--<h:outputText value="#{mapaMB.getMessage()}|" /> -->
+       		 <h:panelGroup id="principal">
+           		 <iframe src="mapa.html?arquivo=#{mapaMB.arquivo}" height="100%" width="100%"> 
+           		 </iframe> 
+            </h:panelGroup>
+        </ui:define>
+        
+    </ui:composition>
+</html>
