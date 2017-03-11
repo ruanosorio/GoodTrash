@@ -1,0 +1,83 @@
+[{
+        "lat": -30.0352334,
+        "lng": -51.2265611,
+        "nome": "Faculdade Senac - Porto Alegre",
+        "endereco": "R. Cel. Genuino, 130 - Centro",
+        "horario": "Horário: 2ª - 6ª: 09:00 18:00",
+        "telefone": "3022-9415 / 3022-9469",
+        "codPostal": "RS - 90010-350 - Brasil"
+    },
+    {
+        "lat": -30.2053469,
+        "lng": -51.1788713,
+        "nome": "Capatazia Belém Novo",
+        "endereco": "Av. Juca Batista, 10400 - Belém Novo",
+        "horario": "2ª - 6ª: 8:00-18:00; sab: 8:00-12:00",
+        "telefone": "3259-1956",
+        "codPostal": "RS - 90010-350 - Brasil"
+    },
+    {
+        "lat": -30.0343409,
+        "lng": -51.2109966,
+        "nome": "Centro Integrado de Desenvolvimento LTDA",
+        "endereco": "Rua Fernandes Vieira, 553 - Bom Fim",
+        "horario": "2ª - 6ª: 8:00- 18:45",
+        "telefone": "3311-2789",
+        "codPostal": "RS - 90010-350 - Brasil"
+    },
+    {
+        "lat": -30.0476852,
+        "lng": -51.1552038,
+        "nome": "Capatazia Fátima",
+        "endereco": "Rua Alfredo Ferreira Rodrigues, 975 - Bom Jesus",
+        "horario": "2ª - 6ª: 8:00-18:00; sab: 8:00-12:00",
+        "telefone": "3367-3777",
+        "codPostal": "RS - 90010-350 - Brasil"
+    },
+    {
+        "lat": -30.1134117,
+        "lng": -51.1651027,
+        "nome": "USF Rincão",
+        "endereco": "Afonso Loureiro Mirante, 1394 - Belem Velho",
+        "horario": "2ª - 6ª: 08:00 - 12:00 / 13:00 - 17:00",
+        "telefone": "3241-4770",
+        "codPostal": "Porto Alegre - RS - CEP - Brasil"
+    },
+    {
+        "lat": -30.1320707,
+        "lng": -51.1974867,
+        "nome": "PSF Nossa Senhora de Belém",
+        "endereco": "Rua João Couto, 294 - Belem Velho",
+        "horario": "2°, 3°, 4° 6°: 8:00- 12:00 - 13:00-17:00 5° 8:00-12:00",
+        "telefone": "3266-9139",
+        "codPostal": "Porto Alegre - RS - CEP - Brasil"
+    },
+    {
+        "lat": -30.1056435,
+        "lng": -51.2385017,
+        "nome": "Escola Estadual de Ensino Fundamental Paulina Moresco",
+        "endereco": "Rua Thomé de Souza, 160 - Campo Novo",
+        "horario": "2ª - 6ª: 8:00-17:00",
+        "telefone": "3245-3888",
+        "codPostal": "Porto Alegre - RS - CEP - Brasil"
+    },
+    {
+        "lat": -30.1105956,
+        "lng": -51.2345237,
+        "nome": "Super Mercado do Sino",
+        "endereco": "Rua Camaquã, 714 - Camaquã",
+        "horario": "2ª - sab: 08:00 - 12:00 / 14:00 - 20:00",
+        "telefone": "3249-6933",
+        "codPostal": "Porto Alegre - RS - CEP - Brasil"
+    },
+    {
+        "lat": -30.1016963,
+        "lng": -51.2307886,
+        "nome": "EMEI Jardim Camaquã",
+        "endereco": "Rua Jardim das Bromélias, 01 - Camaquã",
+        "horario": "2ª - 6ª: 7:00-19:00h",
+        "telefone": "3241-4986",
+        "codPostal": "Porto Alegre - RS - CEP - Brasil"
+    }
+
+]
